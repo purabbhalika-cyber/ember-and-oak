@@ -1,0 +1,7 @@
+{
+  "name": "Ember & Oak",
+  "description": "Atmospheric open-flame dining and refined contemporary gastronomy celebrating the dialogue between primitive fire and modern craft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
